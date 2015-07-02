@@ -90,8 +90,7 @@ O ambiente de trabalho envolvendo implementação de software costuma ser bem in
 </tr>
 <tr>
   <td><b>18h30 às 19h00</b></td>
-  <td>Encerramento do dia</td>
-  <td>Encerramento do dia</td>
+  <td colspan="2">Encerramento do dia</td>
 </tr>
 </table>
 

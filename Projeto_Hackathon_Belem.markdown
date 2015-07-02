@@ -114,36 +114,32 @@ Para incentivar uma maior participação e recebimento de propostas, sugere-se q
 ## Eventos relevantes das comunidades dos últimos 12 meses
 
 #### DevFest Norte 2014
-**Data:** 1º de Novembro de 2014
-**Local:** Computer Hall
-**Qtd. participantes:** 413 (???% mulheres)
-**Instituições com participantes:** ??? ####### CONFERIR #######
-
-#### Startup Weekend Belém 2015
-**Data:** 24 de Abril de 2015
-**Local:** UFPA
-**Participantes:**
-**Qtd. participantes:** ??? (???% mulheres)
-**Instituições com participantes:** ??? ####### CONFERIR #######
+- **Data:** 1º de Novembro de 2014
+- **Local:** Computer Hall
+- **Qtd. participantes:** 413 (???% mulheres)
+- **Instituições com participantes:** ??? ####### CONFERIR #######
 
 #### I Tá Safo em Ação 2015
-**Data:** 08 de Abril de 2015
-**Local:** FIEPA
-**Participantes:**
-**Qtd. participantes:** 60 (???% mulheres)
-**Instituições com participantes:** ??? ####### CONFERIR #######
+- **Data:** 08 de Abril de 2015
+- **Local:** FIEPA
+- **Qtd. participantes:** 60 (???% mulheres)
+- **Instituições com participantes:** ??? ####### CONFERIR #######
 
 #### Tá Safo Dev BizuSafo
-**Data:** 11 de Abril de 2015
-**Local:** HUB728 Coworking
-**Participantes:** 
-**Qtd. participantes:** ??? (???% mulheres)
-**Instituições com participantes:** ??? ####### CONFERIR #######
+- **Data:** 11 de Abril de 2015
+- **Local:** HUB728 Coworking
+- **Qtd. participantes:** ??? (???% mulheres)
+- **Instituições com participantes:** ??? ####### CONFERIR #######
 
 #### Tá Safo em Ação Semana Acadêmica FAPAN
-**Data:** 14 de Abril de 2015
-**Local:** FAPAN
-**Participantes:**
-**Qtd. participantes:** ??? (???% mulheres)
-**Instituições com participantes:** FAPAN
+- **Data:** 14 de Abril de 2015
+- **Local:** FAPAN
+- **Qtd. participantes:** ??? (???% mulheres)
+- **Instituições com participantes:** FAPAN
+
+#### Startup Weekend Belém 2015
+- **Data:** 24 de Abril de 2015
+- **Local:** UFPA
+- **Qtd. participantes:** ??? (???% mulheres)
+- **Instituições com participantes:** ??? ####### CONFERIR #######
 

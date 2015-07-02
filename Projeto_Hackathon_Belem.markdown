@@ -40,6 +40,10 @@ Fazendo jus à descrição de "Maratona", o evento normalmente ocorre em mais de
 
 O ambiente de trabalho envolvendo implementação de software costuma ser bem intenso, de forma que deve-se prever a possibilidade de alguns participantes desejarem adentrar a noite e madrugada para intensificar a conclusão de seus projetos.  Os critérios para julgamento das propostas podem ser diversos, mas preferencialmente deve-se priorizar os trabalhos efetivamente concluídos e funcionais ao invés daqueles entregues como meras simulações, propostas e modelos abstratos.
 
+## Data do evento
+
+A ser definida.  Possivelmente primeiro semestre de 2016.
+
 ## Grade de programação do evento
 
 <table>
@@ -107,4 +111,4 @@ Para incentivar uma maior participação e recebimento de propostas, sugere-se q
 * Água e café à disposição;
 * TO-BE-CONTINUED...
 
-## 
+## Números de atividades anteriores

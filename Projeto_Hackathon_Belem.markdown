@@ -49,8 +49,7 @@ O ambiente de trabalho envolvendo implementação de software costuma ser bem in
 <tr>
   <td><b>08h00 às 09h00</b></td>
   <td>Credenciamento</td>
-  <td>Atividades de programação</td>
-  <td>Atividades de programação</td>
+  <td colspan="2">Atividades de programação</td>
 </tr>
 <tr>
   <td><b>09h00 às 10h00</b></td>
@@ -74,22 +73,19 @@ O ambiente de trabalho envolvendo implementação de software costuma ser bem in
 <tr>
   <td><b>14h00 às 16h00</b></td>
   <td colspan="2">Atividades de programação</td>
-  <td>&nbsp;</td>
+  <td rowspan="4">&nbsp;</td>
 </tr>
 <tr>
   <td><b>16h00 às 16h30</b></td>
   <td colspan="2">Coffee-break e networking</td>
-  <td>&nbsp;</td>
 </tr>
 <tr>
   <td><b>16h30 às 18h30</b></td>
   <td colspan="2">Atividades de programação</td>
-  <td>&nbsp;</td>
 </tr>
 <tr>
   <td><b>18h30 às 19h00</b></td>
   <td colspan="2">Encerramento do dia</td>
-  <td>&nbsp;</td>
 </tr>
 </table>
 

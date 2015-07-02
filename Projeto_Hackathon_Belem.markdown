@@ -4,7 +4,7 @@ A presente proposta é uma iniciativa conjunta dos grupos de usuários de tecnol
 
 ## Contexto
 
-O **Tá Safo!**, comunidade de Tecnologias Abertas com Software Ágil, Fácil e Organizado, é um grupo de entusiastas de software livre, desenvolvimento ágil, empreendedorismo e produtividade pessoal em Belém do Pará e região que atua realizando eventos como workshops, palestras, coding dojos e encontros visando desenvolvimento social por meio do compartilhamento de conhecimento e aprimoramento  tecnológico.
+O **Tá Safo!**, comunidade de Tecnologias Abertas com Software Ágil, Fácil e Organizado, é um grupo de entusiastas de software livre, desenvolvimento ágil, empreendedorismo e produtividade pessoal em Belém do Pará e região que atua realizando eventos como workshops, palestras, coding dojos e encontros visando desenvolvimento social por meio do compartilhamento de conhecimento e aprimoramento  tecnológico.
 
 O **GDG Belém** é um grupo de profissionais e estudantes de tecnologia, originado dentro do Tá Safo!, e que tem como objetivos disseminar o uso e desenvolvimento de tecnologias e promover capacitação nas áreas de computação móvel e correlatas, especialmente nos diversos produtos e APIs da plataforma Google para Desenvolvedores, fomentando o desenvolvimento tecnológico e o empreendedorismo regionais.
 
@@ -42,32 +42,56 @@ O ambiente de trabalho envolvendo implementação de software costuma ser bem in
 
 ## Grade de programação do evento
 
-_DIA 1_
-* **08h00 às 09h00** - Credenciamento
-* **09h00 às10h00** - Boas-vindas e informações gerais
-* **10h00 às10h30** - Coffee-break e networking
-* **10h30 às 12h30** - Participantes programando e palestras paralelas
-* **12h30 às 14h00** - Intervalo para almoço
-* **14h00 às 16h00** - Participantes programando e palestras paralelas
-* **16h00 às 16h30** - Coffee-break e networking
-* **16h30 às 18h30** - Participantes programando e palestras paralelas
-* **18h30 às 19h00** - Fim do dia e informações a participantes que pernoitarem
-
-_DIA 2_
-* **08h00 às 10h00** - Participantes programando
-* **10h00 às10h30** - Coffee-break e networking
-* **10h30 às 12h30** - Participantes programando e palestras paralelas
-* **12h30 às 14h00** - Intervalo para almoço
-* **14h00 às 16h00** - Participantes programando e palestras paralelas
-* **16h00 às 16h30** - Coffee-break e networking
-* **16h30 às 18h30** - Participantes programando e palestras paralelas
-* **18h30 às 19h00** - Fim do dia e informações a participantes que pernoitarem
-
-_DIA 3_
-* **08h00 às 10h00** - Participantes programando
-* **10h00 às10h30** - Coffee-break e networking
-* **10h30 às 12h30** - Apresentação dos resultados e Julgamento
-* **12h30 às 13h30** - Divulgação dos vencedores e entrega de premiações
+<table>
+<tr>
+  <th>Horário</th><th>Dia 1</th><th>Dia 2</th><th>Dia 3</th>
+</tr>
+<tr>
+  <td><b>08h00 às 09h00</b></td>
+  <td>Credenciamento</td>
+  <td>Atividades de programação</td>
+  <td>Atividades de programação</td>
+</tr>
+<tr>
+  <td><b>09h00 às 10h00</b></td>
+  <td>Boas-vindas e informações gerais</td>
+  <td colspan="2">Atividades de programação</td>
+</tr>
+<tr>
+  <td><b>10h00 às 10h30</b></td>
+  <td colspan="3">Coffee-break e networking</td>
+</tr>
+<tr>
+  <td><b>10h30 às 12h30</b></td>
+  <td colspan="2">Atividades de programação</td>
+  <td>Apresentação dos trabalhos</td>
+</tr>
+<tr>
+  <td><b>12h30 às 14h00</b></td>
+  <td colspan="2">Intervalo de almoço</td>
+  <td>Divulgação dos vencedores e Encerramento do evento</td>
+</tr>
+<tr>
+  <td><b>14h00 às 16h00</b></td>
+  <td colspan="2">Atividades de programação</td>
+  <td>&nbsp;</td>
+</tr>
+<tr>
+  <td><b>16h00 às 16h30</b></td>
+  <td colspan="2">Coffee-break e networking</td>
+  <td>&nbsp;</td>
+</tr>
+<tr>
+  <td><b>16h30 às 18h30</b></td>
+  <td colspan="2">Atividades de programação</td>
+  <td>&nbsp;</td>
+</tr>
+<tr>
+  <td><b>18h30 às 19h00</b></td>
+  <td colspan="2">Encerramento do dia</td>
+  <td>&nbsp;</td>
+</tr>
+</table>
 
 ## Público-alvo
 

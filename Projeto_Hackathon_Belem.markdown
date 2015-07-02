@@ -71,8 +71,7 @@ O ambiente de trabalho envolvendo implementação de software costuma ser bem in
 </tr>
 <tr>
   <td><b>12h30 às 14h00</b></td>
-  <td>Intervalo de almoço</td>
-  <td>Intervalo de almoço</td>
+  <td colspan="2">Intervalo de almoço</td>
   <td rowspan="5">&nbsp;</td>
 </tr>
 <tr>

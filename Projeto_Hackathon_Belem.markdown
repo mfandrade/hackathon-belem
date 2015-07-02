@@ -80,6 +80,6 @@ Para incentivar uma maior participação e recebimento de propostas, sugere-se q
 * Local com bancadas onde os participantes possam trabalhar;
 * Link de internet disponível, cabeada ou sem-fio;
 * Água e café à disposição;
-* 
+* TO-BE-CONTINUED...
 
 ## 

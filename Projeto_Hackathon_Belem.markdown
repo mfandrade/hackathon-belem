@@ -67,7 +67,7 @@ O ambiente de trabalho envolvendo implementação de software costuma ser bem in
   <td><b>10h30 às 12h30</b></td>
   <td>Atividades de programação</td>
   <td>Atividades de programação</td>
-  <td>Divulgação dos vencedores e Encerramento do evento</td>
+  <td>Apuração e Encerramento</td>
 </tr>
 <tr>
   <td><b>12h30 às 14h00</b></td>

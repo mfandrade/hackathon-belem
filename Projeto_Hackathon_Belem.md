@@ -6,7 +6,7 @@ A presente proposta é uma iniciativa conjunta dos grupos de usuários de tecnol
 
 O **Tá Safo!**, comunidade de Tecnologias Abertas com Software Ágil, Fácil e Organizado, é um grupo de entusiastas de software livre, desenvolvimento ágil, empreendedorismo e produtividade pessoal em Belém do Pará e região que atua realizando eventos como workshops, palestras, coding dojos e encontros visando desenvolvimento social por meio do compartilhamento de conhecimento e aprimoramento  tecnológico.
 
-O **GDG Belém** é um grupo de profissionais e estudantes de tecnologia, originado dentro do Tá Safo!, e que tem como objetivos disseminar o uso e desenvolvimento de tecnologias e promover capacitação nas áreas de computação móvel e correlatas, especialmente nos diversos produtos e APIs da plataforma Google para Desenvolvedores, fomentando o desenvolvimento tecnológico e o empreendedorismo regionais.
+O **GDG Belém** é um grupo de profissionais e estudantes de tecnologia, originado dentro do Tá Safo! a partir da organização do primeiro evento DevFest Norte, e que tem como objetivos disseminar o uso e desenvolvimento de tecnologias e promover capacitação nas áreas de computação móvel e correlatas, especialmente nos diversos produtos e APIs da plataforma Google para Desenvolvedores, fomentando o desenvolvimento tecnológico e o empreendedorismo regionais.
 
 O **Açaí Valley** é um grupo de empreendedores surgido da organização do primeiro evento Startup Weekend Belém e que visa servir de meio de troca de informações e networking para formação de parcerias, além de ações como apoio à inscrição em editais de fomento a empreendedores, discussão e promoção de eventos, entre outras.
 
@@ -111,35 +111,63 @@ Para incentivar uma maior participação e recebimento de propostas, sugere-se q
 * Água e café à disposição;
 * Outros...
 
-## Eventos relevantes das comunidades dos últimos 12 meses
+## Dados de eventos anteriores
 
-#### DevFest Norte 2014
+Abaixo seguem dados relevantes de eventos realizados pelas comunidades organizadores nos últimos 12 meses.
+
+---
+**DevFest Norte 2014**
 - **Data:** 1º de Novembro de 2014
 - **Local:** Computer Hall
-- **Qtd. participantes:** 413 (???% mulheres)
-- **Instituições com participantes:** ??? ####### CONFERIR #######
+- **Qtd. participantes:** 413 (85 mulheres, 20% do total)
+- **Instituições com participantes:** ???
 
-#### I Tá Safo em Ação 2015
+---
+**Codelab Introdução ao Android Studio**
+- **Data:** 22 de Novembro de 2014
+- **Local:** HUB728
+- **Qtd. participantes:** 12 (0 mulheres)
+- **Instituições com participantes:** ???
+
+---
+**I Tá Safo em Ação 2015**
 - **Data:** 08 de Abril de 2015
 - **Local:** FIEPA
-- **Qtd. participantes:** 60 (???% mulheres)
-- **Instituições com participantes:** ??? ####### CONFERIR #######
+- **Qtd. participantes:** 50 (??? mulheres, ??% do total)
+- **Instituições com participantes:** ???
 
-#### Tá Safo Dev BizuSafo
+---
+**Tá Safo Dev BizuSafo**
 - **Data:** 11 de Abril de 2015
 - **Local:** HUB728 Coworking
-- **Qtd. participantes:** ??? (???% mulheres)
-- **Instituições com participantes:** ??? ####### CONFERIR #######
+- **Qtd. participantes:** ??? (??? mulheres, ??% do total)
+- **Instituições com participantes:** ???
 
-#### Tá Safo em Ação Semana Acadêmica FAPAN
+---
+**Tá Safo em Ação Semana Acadêmica FAPAN**
 - **Data:** 14 de Abril de 2015
 - **Local:** FAPAN
-- **Qtd. participantes:** ??? (???% mulheres)
+- **Qtd. participantes:** ??? (??? mulheres, ??% do total)
 - **Instituições com participantes:** FAPAN
 
-#### Startup Weekend Belém 2015
+---
+**Startup Weekend Belém 2015**
 - **Data:** 24 de Abril de 2015
 - **Local:** UFPA
-- **Qtd. participantes:** ??? (???% mulheres)
-- **Instituições com participantes:** ??? ####### CONFERIR #######
+- **Qtd. participantes:** ??? (??? mulheres, ??% do total)
+- **Instituições com participantes:** ???
+
+---
+**Google I/O Extended 2015**
+- **Data:** 28 de Maio de 2015
+- **Local:** PCT Guamá
+- **Qtd. participantes:** 60 (12 mulheres, 20% do total)
+- **Instituições com participantes:** ???
+
+---
+**I Javascript Camp**
+- **Data:** 27 de Junho de 2015
+- **Local:** HUB728
+- **Qtd. participantes:** 25 (5 mulheres, 20% do total)
+- **Instituições com participantes:** ???
 

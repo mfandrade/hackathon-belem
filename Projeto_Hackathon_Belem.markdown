@@ -54,7 +54,7 @@ O ambiente de trabalho envolvendo implementação de software costuma ser bem in
 </tr>
 <tr>
   <td><b>09h00 às 10h00</b></td>
-  <td>Boas-vindas e informações gerais</td>
+  <td>Abertura e Boas-vindas</td>
   <td>Atividades de programação</td>
   <td>Atividades de programação</td>
 </tr>
@@ -82,8 +82,7 @@ O ambiente de trabalho envolvendo implementação de software costuma ser bem in
 </tr>
 <tr>
   <td><b>16h00 às 16h30</b></td>
-  <td>Coffee-break e networking</td>
-  <td>Coffee-break e networking</td>
+  <td colspan="2">Coffee-break e networking</td>
 </tr>
 <tr>
   <td><b>16h30 às 18h30</b></td>

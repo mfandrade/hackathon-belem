@@ -49,12 +49,14 @@ O ambiente de trabalho envolvendo implementação de software costuma ser bem in
 <tr>
   <td><b>08h00 às 09h00</b></td>
   <td>Credenciamento</td>
-  <td colspan="2">Atividades de programação</td>
+  <td>Atividades de programação</td>
+  <td>Atividades de programação</td>
 </tr>
 <tr>
   <td><b>09h00 às 10h00</b></td>
   <td>Boas-vindas e informações gerais</td>
-  <td colspan="2">Atividades de programação</td>
+  <td>Atividades de programação</td>
+  <td>Atividades de programação</td>
 </tr>
 <tr>
   <td><b>10h00 às 10h30</b></td>
@@ -62,30 +64,36 @@ O ambiente de trabalho envolvendo implementação de software costuma ser bem in
 </tr>
 <tr>
   <td><b>10h30 às 12h30</b></td>
-  <td colspan="2">Atividades de programação</td>
+  <td>Atividades de programação</td>
+  <td>Atividades de programação</td>
   <td>Apresentação dos trabalhos</td>
 </tr>
 <tr>
   <td><b>12h30 às 14h00</b></td>
-  <td colspan="2">Intervalo de almoço</td>
+  <td>Intervalo de almoço</td>
+  <td>Intervalo de almoço</td>
   <td>Divulgação dos vencedores e Encerramento do evento</td>
 </tr>
 <tr>
   <td><b>14h00 às 16h00</b></td>
-  <td colspan="2">Atividades de programação</td>
+  <td>Atividades de programação</td>
+  <td>Atividades de programação</td>
   <td rowspan="4">&nbsp;</td>
 </tr>
 <tr>
   <td><b>16h00 às 16h30</b></td>
-  <td colspan="2">Coffee-break e networking</td>
+  <td>Coffee-break e networking</td>
+  <td>Coffee-break e networking</td>
 </tr>
 <tr>
   <td><b>16h30 às 18h30</b></td>
-  <td colspan="2">Atividades de programação</td>
+  <td>Atividades de programação</td>
+  <td>Atividades de programação</td>
 </tr>
 <tr>
   <td><b>18h30 às 19h00</b></td>
-  <td colspan="2">Encerramento do dia</td>
+  <td>Encerramento do dia</td>
+  <td>Encerramento do dia</td>
 </tr>
 </table>
 
